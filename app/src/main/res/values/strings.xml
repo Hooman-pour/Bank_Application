@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZarBank</string>
+    <string name="cd_brand_emblem">نشان امنیتی زربانک</string>
+    <string name="cd_back">بازگشت</string>
+    <string name="cd_toggle_balance">نمایش یا مخفی‌سازی موجودی</string>
+    <string name="cd_copy_value">کپی در حافظه</string>
+    <string name="cd_refresh">به‌روزرسانی اطلاعات بانکی</string>
+</resources>

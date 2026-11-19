@@ -1,0 +1,6 @@
+{
+  "name": "ZarBank",
+  "description": "Production-ready Iranian Open Banking Android app using Clean Architecture, Hilt, Jetpack Compose, EncryptedSharedPreferences, and Finotech/Faraboom API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
